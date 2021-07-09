@@ -4,4 +4,6 @@
 
 ## TTGO T-Watch 2020
 
-[![T-Watch 2020](t-watch-2020-phone.png)](t-watch-2020.md)
+### Pin Diagram
+
+[![T-Watch 2020 Pinout](t-watch-2020-pinout-small.jpg)](t-watch-2020-pinout.jpg)

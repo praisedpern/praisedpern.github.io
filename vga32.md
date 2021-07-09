@@ -4,4 +4,6 @@
 
 ## TTGO VGA32
 
-[![VGA32](vga32-phone.jpg)](vga32.md)
+### Pin Diagram
+
+[![T-Display Pinout](t-display-pinout-small.jpg)](t-display-pinout.jpg)

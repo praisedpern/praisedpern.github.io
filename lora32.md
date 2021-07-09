@@ -4,8 +4,6 @@
 
 ## TTGO Lora32
 
-[![Lora32](lora32-phone.jpg)](lora32.md)
-
 ### Pin Diagram
 
 [![Lora32 Pinout](lora32-pinout-small.jpg)](lora32-pinout.jpg)

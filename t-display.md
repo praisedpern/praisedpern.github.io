@@ -4,8 +4,6 @@
 
 ## TTGO T-Display
 
-[T-Display](t-display-phone.jpg)
-
 ### Pin Diagram
 
 [![T-Display Pinout](t-display-pinout-small.jpg)](t-display-pinout.jpg)
@@ -23,4 +21,7 @@
 5. Once it is installed, close Boards Manager then select Tools > Board: > ESP32
    Arduino > TTGO Lora32-OLED V1.
 
-6. Plug the board into your PC with a USB cable and wait for any drivers to install. Go to Tools > Port: and select the COM port for your T-Display. If Arduino IDE can't find the port for your board, you may need to download and install the UART driver from [https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers).
+6. Plug the board into your PC with a USB cableand wait for any drivers to
+   install. Go to Tools > Port: and select the COM port for your T-Display. If
+   Arduino IDE can't find the port for your board, you may need to download nad
+   install the UART driver from [https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers).
