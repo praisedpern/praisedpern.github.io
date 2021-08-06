@@ -1,8 +1,7 @@
-# [LilyGO](http://lilygo.cn/) TTGO Boards and Devices
-
- [ebay/praisedpern](https://www.ebay.co.uk/usr/praisedpern/) - [github/praisedpern](https://www.github.com/praisedpern/)
-
-## TTGO T-Display
+---
+layout: default
+title: TTGO T-Display
+---
 
 ### Pin Diagram
 
