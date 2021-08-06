@@ -10,7 +10,11 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
+<<<<<<< HEAD
     margin-right: 20px;
+=======
+    margin-right:20px;
+>>>>>>> 63b5f6a54312a805377ce00dae4c6049342a2037
 }
 a {
     text-decoration: none;
@@ -40,4 +44,8 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+<<<<<<< HEAD
 }
+=======
+} 
+>>>>>>> 63b5f6a54312a805377ce00dae4c6049342a2037
