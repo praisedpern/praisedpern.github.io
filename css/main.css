@@ -1,6 +1,8 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    width: clamp(90%); 
+}
+container {
+    width: clamp(40ch, 90%, 80ch);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -26,6 +28,45 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: darkseagreen;
+}
+h2 {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: lightgrey;
+}
+h3 {
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+nav {
+    font-size: 1em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: lightgrey;
+    background-color: #333;
+    text-transform: lowercase;
+}
+.textclip {
+    text-overflow: clip;
+    white-space:nowrap;
+    overflow:hidden;
+}
+.subtitle {
+    text-transform: lowercase;
+    color: lightgrey;
+}
+.up30 {
+    position: relative;
+    bottom: 30px;
+    text-align: right;
+}
+.up44 {
+    position: relative;
+    bottom: 44px;
+}
+.up60 {
+    position: relative;
+    bottom: 60px;
 }
 p {
     font-size: 1.5em;

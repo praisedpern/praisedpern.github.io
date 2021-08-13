@@ -4,7 +4,7 @@
 
 I'm really enjoying the [American Truck Simulator](https://americantrucksimulator.com/) Convoy beta. This is the first time there has been official online multiplayer in ATS, and having friends on the road with me has been making those long journeys and difficult hauls a lot more bearable!
 
-I'm playing the game with an old ThinkPad laptop docked to dual screens. I'd love to have a panoramic view of my Western Star's cabin, but there's no way the old Intel integrated graphics can push that many pixels at a playable framerate. Adding a graphics card would help, but as of summer 2021 used prices are high, and new budget cards are still unavailable. But that got me to thinking; is there something different I could do with my idle second monitor that could be conducive to my trucking success?
+I'm playing the game with an old ThinkPad laptop docked to dual screens. I'd love to have a panoramic view of my Western Star's cabin, but there's no way the old Intel integrated graphics can push that many pixels at a playable framerate. Adding a graphics card would help, but as of summer 2021 used prices are still too damn high, and new budget cards are still unavailable. But that got me to thinking; is there something different I could do with my idle second monitor that could be conducive to my trucking success?
 
 I remember tinkering with [SCS's excellent SDK tools](https://modding.scssoft.com/wiki/Documentation/Engine/SDK/Telemetry) and using them to display information on a web server a few years ago. This time, I'm going to send the information to a [TTGO VGA 32](../vga32.md) and have it draw to the screen using the [FabGL graphics library](https://github.com/fdivitto/fabgl).
 

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: praisedpern.github.io
+title: Home
 ---
-
-TODO Populate index page
+My name is James, I'm a cyclist, tinkerer and hobby coder from the United Kingdom. Find out more [about me](about), [get in touch](contact), or check out my [development board tutorials](boards).
