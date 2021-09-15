@@ -1,8 +1,8 @@
 body {
     width: clamp(90%); 
 }
-container {
-    width: clamp(40ch, 90%, 80ch);
+.container {
+    width: clamp(480px, 90%, 900px);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -46,6 +46,26 @@ nav {
     background-color: #333;
     text-transform: lowercase;
 }
+li:.menu {
+      display: grid;
+  place-items: center;
+  background: lightpink;
+}
+.outer-wrapper {
+  overflow: hidden;
+  height: 1.2em;
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    background-color: darkseagreen;
+}
+.outer-wrapper::before {
+  display: inline-block;
+}
+.inner-wrapper {
+  display: inline-block;
+  text-transform: lowercase;
+  color: lightgrey;
+}
 .textclip {
     text-overflow: clip;
     white-space:nowrap;
@@ -57,12 +77,12 @@ nav {
 }
 .up30 {
     position: relative;
-    bottom: 30px;
+    bottom: 10px;
     text-align: right;
 }
 .up44 {
     position: relative;
-    bottom: 44px;
+    bottom: 23px;
 }
 .up60 {
     position: relative;

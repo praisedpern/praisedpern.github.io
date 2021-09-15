@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: menu 
 title: Board Tutorials
 ---
 
