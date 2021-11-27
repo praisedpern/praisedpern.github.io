@@ -5,7 +5,7 @@ title: TTGO T-Display
 
 ### Pin Diagram
 
-[![T-Display Pinout](t-display-pinout-small.jpg)](t-display-pinout.jpg)
+[![T-Display Pinout](./public/t-display-pinout-small.jpg)](t-display-pinout.jpg)
 
 ### Setting up Arduino IDE
 

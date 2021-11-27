@@ -5,7 +5,7 @@ title: TTGO Lora32
 
 ### Pin Diagram
 
-[![Lora32 Pinout](lora32-pinout-small.jpg)](lora32-pinout.jpg)
+[![Lora32 Pinout](./public/lora32-pinout-small.jpg)](lora32-pinout.jpg)
 
 ### Setting up Arduino IDE
 
