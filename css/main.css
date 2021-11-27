@@ -1,22 +1,20 @@
 body {
-    width: clamp(90%); 
+    width: clamp(90%);
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 .container {
-    width: clamp(480px, 90%, 900px);
+    width: clamp(480px, 90%, 1905px);
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+nav ul,
+footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li,
+footer ul li {
     display: inline;
-<<<<<<< HEAD
     margin-right: 20px;
-=======
-    margin-right:20px;
->>>>>>> 63b5f6a54312a805377ce00dae4c6049342a2037
 }
 a {
     text-decoration: none;
@@ -27,49 +25,40 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: darkseagreen;
 }
 h2 {
     font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: lightgrey;
 }
 h3 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 nav {
     font-size: 1em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: lightgrey;
     background-color: #333;
     text-transform: lowercase;
 }
-li:.menu {
-      display: grid;
-  place-items: center;
-  background: lightpink;
-}
 .outer-wrapper {
-  overflow: hidden;
-  height: 1.2em;
+    overflow: hidden;
+    height: 1.2em;
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     background-color: darkseagreen;
+    color: #333;
 }
 .outer-wrapper::before {
-  display: inline-block;
+    display: inline-block;
 }
 .inner-wrapper {
-  display: inline-block;
-  text-transform: lowercase;
-  color: lightgrey;
+    display: inline-block;
+    text-transform: lowercase;
+    color: lightgrey;
 }
 .textclip {
     text-overflow: clip;
-    white-space:nowrap;
-    overflow:hidden;
+    white-space: nowrap;
+    overflow: hidden;
 }
 .subtitle {
     text-transform: lowercase;
@@ -95,18 +84,14 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 0.8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
 ul.posts li {
     list-style: none;
-<<<<<<< HEAD
 }
-=======
-} 
->>>>>>> 63b5f6a54312a805377ce00dae4c6049342a2037

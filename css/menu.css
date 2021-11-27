@@ -1,0 +1,21 @@
+.menu > ul {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+}
+.menu > ul > li {
+    list-style: none;
+    display: grid;
+    grid-template-rows: auto min-content;
+    place-items: center;
+    background-color: lightgrey;
+    border-radius: 6px;
+    padding: 10px;
+}
+.menu > ul > li > * {
+    padding: 10px;
+    color: #333;
+}
+ .menu > ul > li > a > img {
+     border-radius: 5px;
+}
