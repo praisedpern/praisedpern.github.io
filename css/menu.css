@@ -1,3 +1,7 @@
+img {
+    max-width: 320px;
+}
+
 .menu > ul {
     display: grid;
     grid-gap: 1rem;
@@ -7,7 +11,7 @@
     list-style: none;
     display: grid;
     grid-template-rows: auto min-content;
-    place-items: center;
+    justify-content: center;
     background-color: lightgrey;
     border-radius: 6px;
     padding: 10px;

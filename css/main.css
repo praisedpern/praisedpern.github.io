@@ -3,7 +3,7 @@ body {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 .container {
-    width: clamp(480px, 90%, 1905px);
+    width: clamp(480px, 98%, 1905px);
 }
 nav ul,
 footer ul {
