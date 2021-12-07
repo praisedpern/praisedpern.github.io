@@ -5,7 +5,7 @@ title: TTGO T-Beam
 
 ### Pin Diagram
 
-[![T-Beam Pinout](./public/t-beam-pinout-small.jpg)](t-beam-pinout.jpg)
+[![T-Beam Pinout](./public/t-beam-pinout-small.jpg)](./public/t-beam-pinout.jpg)
 
 ### Setting up Arduino IDE
 

@@ -8,4 +8,4 @@ title: Board Tutorials
 -   [T-Beam](t-beam)[![T-Beam](./public/t-beam-phone.jpg)](t-beam.html)
 -   [Lora32](lora32)[![Lora32](./public/lora32-phone.jpg)](lora32.html)
 -   [T-Watch 2020](t-watch-2020)[![T-Watch 2020](./public/t-watch-2020-phone.png)](t-watch-2020.html)
--   [VGA32](vga32)[![VGA33](./public/vga32-phone.jpg)](vga32.html)
+-   [VGA32](vga32)[![VGA32](./public/vga32-phone.jpg)](vga32.html)
